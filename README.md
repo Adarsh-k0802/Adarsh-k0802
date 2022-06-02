@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Adarsh Kumar</h1>
-<h3 align="center">An enthusiastic Web and Android Developer</h3>
+<h3 align="center">An enthusiastic Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarsh-k0802&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh-k0802" /> </p>
 
