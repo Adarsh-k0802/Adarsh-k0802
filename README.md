@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adarsh-k0802&label=Profile%20views&color=0e75b6&style=flat" alt="Adarsh-k0802" /> </p>
 
--> I’m currently learning **MERN Stack**
-
 -> How to reach me **adarshk0802@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
